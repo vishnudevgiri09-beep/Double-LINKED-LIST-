@@ -1,24 +1,17 @@
-# Double-LINKED-LIST
-
- 
 #include <stdio.h>
 #include <stdlib.h>
-
 /* Definition of node */
 struct node {
     int data;
     struct node *prev;
     struct node *next;
 };
-
 struct node *head = NULL;
-
 /* Function Prototypes */
 void create();
 void insert();
 void deletee();
 void traverse();
-
 /* Main Function */
 int main() {
     int choice;
