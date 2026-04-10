@@ -1,5 +1,6 @@
-# Double-LINKED-LIST-
-The c program of double linked list 
+# Double-LINKED-LIST
+
+ 
 #include <stdio.h>
 #include <stdlib.h>
 
